@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS and Aure cloud computing 
 - 🌱 I’m currently learning Linux, bash and ClI
 - 💞️ I’m looking to collaborate on getting Hands-on project 
-- 📫 How to reach me...
+- 📫 How to reach me dev.komoha@gamil.com
 
 <!---
 komoha8/komoha8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
